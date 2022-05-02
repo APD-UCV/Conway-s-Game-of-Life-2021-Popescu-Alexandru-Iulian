@@ -14,22 +14,32 @@ Variante
 Pentru firele de execuție voi încerca sa impart liniile și/sau coloanele pe anumite thread-uri pentru a mari viteza simularii.
 
 Informatii platforma
+
 Windows 10
+
 Procesor: Ryzen 5
-Numar nuclee
+
+Numar nuclee:
 6
-Numar thread-uri
+
+Numar thread-uri:
 12
-Frecventa
+
+Frecventa:
 3,7 GHz
-Frecventa turbo
+
+Frecventa turbo:
 4,6 GHz
-Cache level 2
+
+Cache level 2:
 3 MB
-Cache level 3
+
+Cache level 3:
 32 MB
 
-RAM: 16GB
+RAM: 
+16GB
+
 Placa video: (nu este utilizata) NVidia RTX 3060ti
 
 - Benchmark pentru varianta secvențială
