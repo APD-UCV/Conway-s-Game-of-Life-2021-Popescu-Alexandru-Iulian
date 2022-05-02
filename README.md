@@ -3,6 +3,7 @@ Popescu Alexandru Iulian
 Conway’s Game Of Life
 
 Enunt
+
   Game of Life, cunoscut și sub numele de Life, este un automat celular conceput de matematicianul britanic John Horton Conway în 1970. Este un joc cu zero jucători, ceea ce înseamnă că evoluția sa este determinată de starea sa inițială, care nu necesită intrări suplimentare. 
 Se interacționează cu Jocul Vieții prin crearea unei configurații inițiale și observarea modului în care evoluează.
 
